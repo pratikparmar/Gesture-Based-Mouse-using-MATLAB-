@@ -1,4 +1,4 @@
-Matlab
+Gesture Based Mouse using MATLB
 ======
 
 This code is for object detection.
